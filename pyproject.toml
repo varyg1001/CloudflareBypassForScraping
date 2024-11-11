@@ -9,7 +9,7 @@ py-modules = ["CloudflareBypasser"]
 name = "CloudflareBypassForScraping"
 description = "A cloudflare verification bypass script for webscraping"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10,<3.13"
 
 # This field adds keywords for your project which will appear on the
 # project page. What does your project relate to?
